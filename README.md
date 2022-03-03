@@ -1,9 +1,17 @@
-- 👋 Hi, I’m @reemaalotaibi
-- 👀 I’m interested in Artificial Intelligence and Data Science
-- 🌱 I’m currently learning python, data science
-- 📫 Reach me through LinkedIn @reemaalotaibi
+### Hi there 👋, I'm Reema
+#### Data Scientist and Coder
+👩🏻‍💻I am currently a computer science fresh graduate and a data science intern. 
+✍🏼 Moreover, I really enjoy content writing however, I'm waiting to a bit more experience in the technical field so I can become a technical content writer.
+📖 Besides technology, I'm interested in History, Reading and Sports 🏀
 
-<!---
-reemaalotaibi/reemaalotaibi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Skills: Python / HTML / CSS / Java / JavaScript
+
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/reemaalotaibi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/reemaalotaibi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UC8wLUgxJjHTwa9-OM6OjBcA/playlists)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg' alt='hackerrank' height='40'>](https://www.hackerrank.com/reemaalotaibi)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reemaalotaibi)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=reemaalotaibi&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/reemaalotaibi)  
