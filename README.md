@@ -24,6 +24,5 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=reemaalotaibi)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=reemaalotaibi&show_icons=true)  
 
 ![Profile views](https://gpvc.arturio.dev/reemaalotaibi)  
