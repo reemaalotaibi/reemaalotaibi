@@ -2,13 +2,22 @@
 
    ![Data Scientist and Coder](https://github.com/reemaalotaibi/reemaalotaibi/blob/main/banner.png)
 
-#### Data Scientist and Coder
+#### A Data Scientist and Coder
 
-👩🏻‍💻I am currently a computer science fresh graduate and a data science intern. 
+👩🏻‍💻I am currently a computer science fresh graduate and a data science intern @ data glacier
+
 ✍🏼 Moreover, I really enjoy content writing however, I'm waiting to a bit more experience in the technical field so I can become a technical content writer.
+
 📖 Besides technology, I'm interested in History, Reading and Sports 🏀
 
-Skills: Python / HTML / CSS / Java / JavaScript
+#### Skills: 
+🐍 Python
+🕸 HTML + CSS + JavaScript
+☕️ Java 
+
+#### Experiences:
+* Data Science Intern ☞ 🗓 Feb 2022  - present
+* Test Analyst Intern ☞ 🗓 Oct 2021 - Feb 2022
 
 
 
