@@ -4,16 +4,15 @@
 
 #### A Data Scientist and Coder
 
-👩🏻‍💻I am currently a computer science fresh graduate and a data science intern @ data glacier
-
-✍🏼 Moreover, I really enjoy content writing however, I'm waiting to a bit more experience in the technical field so I can become a technical content writer.
-
-📖 Besides technology, I'm interested in History, Reading and Sports 🏀
+* 👩🏻‍💻I am currently a computer science fresh graduate and a data science intern @ data glacier
+* ✍🏼 Moreover, I really enjoy content writing however, I'm waiting to a bit more experience in the technical field so I can become a technical content writer.
+* 📖 Besides technology, I'm interested in History, Reading and Sports 🏀
 
 #### Skills: 
-🐍 Python
-🕸 HTML + CSS + JavaScript
-☕️ Java 
+
+* 🐍 Python
+* 🕸 HTML + CSS + JavaScript
+* ☕️ Java 
 
 #### Experiences:
 * Data Science Intern ☞ 🗓 Feb 2022  - present
