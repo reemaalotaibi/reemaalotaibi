@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Reema
+
+   ![Data Scientist and Coder](https://github.com/reemaalotaibi/reemaalotaibi/blob/main/banner.png)
+
 #### Data Scientist and Coder
-![Data Scientist and Coder](https://github.com/reemaalotaibi/reemaalotaibi/blob/main/banner.png)
 
 👩🏻‍💻I am currently a computer science fresh graduate and a data science intern. 
 ✍🏼 Moreover, I really enjoy content writing however, I'm waiting to a bit more experience in the technical field so I can become a technical content writer.
