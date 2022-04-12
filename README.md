@@ -16,7 +16,7 @@
 
 #### Experiences:
 * Data Science Intern ☞ 🗓 Feb 2022  - present
-* Test Analyst Intern ☞ 🗓 Oct 2021 - Feb 2022
+* Software Quality Assurance Intern ☞ 🗓 Oct 2021 - Feb 2022
 
 #### Activities:
 * Volunteer. Website Content Manager
