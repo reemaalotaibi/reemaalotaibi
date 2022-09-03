@@ -10,6 +10,7 @@
 
 #### Skills: 
 
+* ♚ JavaScript
 * 🐍 Python
 * 🕸 HTML + CSS + JavaScript
 * ☕️ Java 
