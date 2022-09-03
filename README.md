@@ -15,7 +15,8 @@
 * ☕️ Java 
 
 #### Experiences:
-* Data Science Intern ☞ 🗓 Feb 2022  - present
+* Junior Programmer ☞ 🗓 March 2022  - present
+* Data Science Intern ☞ 🗓 Feb 2022  - May 2022
 * Software Quality Assurance Intern ☞ 🗓 Oct 2021 - Feb 2022
 
 #### Activities:
