@@ -12,7 +12,7 @@
 
 * 🐍 Python
 * 🕸 HTML + CSS + JavaScript
-* ☕️ Java 
+* C# 
 
 #### Experiences:
 * Junior Programmer ☞ 🗓 March 2022  - present
