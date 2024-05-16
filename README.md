@@ -1,10 +1,9 @@
 ### Hi there 👋, I'm Reema
 
-   ![Data Scientist and Coder](https://github.com/reemaalotaibi/reemaalotaibi/blob/main/banner.png)
+   ![Data Scientist and Coder]
 
-#### A Data Scientist and Coder from 🇯🇴, living in 🇸🇦
-
-* 👩🏻‍💻 A Computer Science Graduate 
+#### ASP.NET C# Programmer
+* 👩🏻‍💻 A Computer Science Graduate with Second Honors Degree (1st Division)
 * ✍🏼 I really enjoy content writing, however, I'm waiting to a bit more experience in the technical field so I can become a technical content writer.
 * 📖 Besides technology, I'm interested in History, Reading and Sports 🏀
 
