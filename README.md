@@ -1,6 +1,5 @@
 ### Hi there 👋, I'm Reema
 
-   ![Data Scientist and Coder]
 
 #### ASP.NET C# Programmer
 * 👩🏻‍💻 A Computer Science Graduate with Second Honors Degree (1st Division)
