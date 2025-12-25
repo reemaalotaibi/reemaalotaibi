@@ -8,8 +8,6 @@
 
 #### Skills: 
 
-* 🐍 Python
-* 🕸 HTML + CSS + JavaScript
 * C# 
 
 #### Experiences:
