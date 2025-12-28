@@ -54,7 +54,6 @@
 
 - 💡 **Problem-Solving:** I thrive on tackling complex technical challenges with analytical thinking
 - 🏛️ **Continuous Learning:** Always exploring new technologies and architectural patterns
-- ✍️ **Technical Writing:** Aspiring technical content writer - combining my passion for technology and writing
 - 🎯 **Quality Code:** Obsessed with writing clean, maintainable, and well-documented code
 
 ---
@@ -65,7 +64,7 @@ When I'm not coding, you'll find me:
 - 📖 Reading about History and exploring historical narratives
 - 🏀 Following sports and staying active
 - ✍️ Practicing content writing to sharpen my communication skills
-- 🌐 Volunteering as a Website Content Manager
+- 🌐 Volunteering
 
 ---
 
